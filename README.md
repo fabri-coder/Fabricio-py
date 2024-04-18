@@ -13,7 +13,7 @@
 
 # What I'm doing
 
-<img align="right" width="300" height="300" src="https://github.com/Fabricio-py/Fabricio-py/blob/main/pcImagen.png">
+
 
 
 - 🔭 I’m currently studying software development 💻
